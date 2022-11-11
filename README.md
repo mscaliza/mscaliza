@@ -7,5 +7,5 @@ Tenho bastante tempo de experiência trabalhando com sistemas web, tendo iniciad
 
 Skills: UX / VUE JS / REACT / JS / HTML / CSS / Figma / Bubble.io
 
-Você pode consultar os projetos dos quais participei no link abaixo:
+Você pode consultar os projetos dos quais participei neste link:
 https://www.behance.net/marianascaliza
